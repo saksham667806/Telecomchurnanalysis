@@ -63,16 +63,20 @@ This project uses synthetic but realistic telecom usage data to explore all of t
 ### 🔹 Section 2: Usage Patterns
 - KPI Cards: Total Minutes, Messages, Calls
 - Line Chart: Monthly Charges vs. Usage Trend
+![image alt](https://github.com/saksham667806/Telecomchurnanalysis/blob/b7ed6831a331d45ed9fa779a904fc73a06c3531d/dashboard_page_2.png)
 
 
 ### 🔹 Section 3: Revenue Analysis
 - Bar Chart: Top 10 Customers by Revenue
 - Slicers : With all the checks of churn and revenue.
 
+![image alt](https://github.com/saksham667806/Telecomchurnanalysis/blob/b7ed6831a331d45ed9fa779a904fc73a06c3531d/dashboard_page_3.png)
+
+
 ### 🔹 Section 4: Risk & Opportunities
 - Conditional Table: High Usage + Churn = Risk
 - Slicers : With all the checks of churn and revenue.
-
+![image alt](https://github.com/saksham667806/Telecomchurnanalysis/blob/b7ed6831a331d45ed9fa779a904fc73a06c3531d/dashboard_page_4.png)
 ---
 
 ## ✅ KPIs Calculated (via DAX in Power BI)
