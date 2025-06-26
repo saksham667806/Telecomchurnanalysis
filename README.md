@@ -58,21 +58,20 @@ This project uses synthetic but realistic telecom usage data to explore all of t
 - KPI Cards: Churn Rate, Churned Customers, Revenue Lost
 - Pie Chart: Churn Distribution (Yes vs No)
 - Bar Chart: Avg. Monthly Charges by Churn Status
+![image alt](https://github.com/saksham667806/Telecomchurnanalysis/blob/main/dashboard_page_1.png?raw=true)
 
 ### 🔹 Section 2: Usage Patterns
 - KPI Cards: Total Minutes, Messages, Calls
-- Histogram: Cost per Call or Minute
 - Line Chart: Monthly Charges vs. Usage Trend
+
 
 ### 🔹 Section 3: Revenue Analysis
 - Bar Chart: Top 10 Customers by Revenue
-- Scatter Plot: Usage vs. Charges
-- Column Chart: Cost per Minute by Segment
+- Slicers : With all the checks of churn and revenue.
 
 ### 🔹 Section 4: Risk & Opportunities
 - Conditional Table: High Usage + Churn = Risk
-- Filtered Table: High Cost, Low Usage Customers
-- Icon Table: ❌ Churn Flag, 🔺 High Usage, 💰 VIP Revenue
+- Slicers : With all the checks of churn and revenue.
 
 ---
 
